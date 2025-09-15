@@ -38,4 +38,3 @@ To run this application, ensure that you have:
 
 ---
 
-## 📂 File Structure | โครงสร้างไฟล์
